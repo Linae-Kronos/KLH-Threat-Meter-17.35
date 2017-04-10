@@ -14,6 +14,10 @@ KLHThreatMeter monitors and records your threat, and will list your threat in a 
 
 ![ktm_charselect](https://cloud.githubusercontent.com/assets/24671466/24852759/f557c694-1dd8-11e7-9539-910080ec72e8.png)
 
+## Recommended additional addon
+
+[KTMAutoHider](https://github.com/Linae-Kronos/KTMAutoHider) : will automatically hide KTM when not in raid or party
+
 ## Documentation & Tips
 The following files in folder "KLHThreatMeter\Readme" have some random tips and documentation :
 - Advanced Raid Commands.txt : raid officers / leaders should read this
