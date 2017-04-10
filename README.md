@@ -11,6 +11,7 @@ KLHThreatMeter monitors and records your threat, and will list your threat in a 
 3. Extract the zip file wherever you want
 4. Copy the folders "KLHPerformanceMonitor" & "KLHThreatMeter" to Wow_Folder\Interface\AddOns
 5. This is what you should have on character selection screen :
+
 ![ktm_charselect](https://cloud.githubusercontent.com/assets/24671466/24852759/f557c694-1dd8-11e7-9539-910080ec72e8.png)
 
 ## Documentation & Tips
